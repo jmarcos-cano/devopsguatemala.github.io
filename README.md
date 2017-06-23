@@ -1,1 +1,0 @@
-# devopsguatemala.github.io
